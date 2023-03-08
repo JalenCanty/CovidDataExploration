@@ -18,4 +18,6 @@ After analysis, the data was then loaded into Tableau, where various visualizati
 ![CovidDashboard](https://user-images.githubusercontent.com/123619020/222254384-372c0219-843b-4142-8a43-ed2d0877e2c1.png)
 
 ## Conclusion
-The project's results provided a better understanding of the pandemic's spread and the most affected regions, and countries. This information is helpful in decision-making for policymakers, health experts, and the public, informing them on the best ways to respond to the pandemic. Overall, the project demonstrated the power of data analytics in uncovering insights and making informed decisions.
+According to the data, Europe was the continent most impacted by COVID-19. It had the highest number of total deaths, while the United Kingdom had the highest percentage of population infected. It is projected that by 2024, approximately 38% of the population in both the United Kingdom and the United States will have been infected by the virus.
+
+The project's results provided a better understanding of the pandemic's spread and the most affected countries, & continents. This information is helpful in decision-making for policymakers, health experts, and the public, informing them on the best ways to respond to the pandemic. 
